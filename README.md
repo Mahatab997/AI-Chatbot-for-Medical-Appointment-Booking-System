@@ -1,8 +1,6 @@
-# AI Chatbot for Medical Appointment Booking System
 Artificial Intelligence Lab Project Proposal
 
 
-Artificial Intelligence Lab Project Proposal
 Project Title: AI Chatbot for Medical Appointment Booking System
 
 Prepared By: Logic Layers [780,997]

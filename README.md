@@ -10,7 +10,7 @@ ________________________________________
 2. Problem Statement:
    Traditional medical appointment systems depend on manual booking, which is slow, inefficient, and error-prone. This increases staff workload and limits patient access outside office hours, creating the need for an automated and       
    intelligent solution.
-3. Objectives
+# 3. Objectives
 
     •	To develop an AI-based chatbot for medical appointment booking
 

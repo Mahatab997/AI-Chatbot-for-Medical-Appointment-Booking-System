@@ -51,6 +51,19 @@ ________________________________________
    
     • AI Chatbot: OpenAI API (real AI)
 
+
+## 📅 5‑Week Project Timeline
+The work is broken down into the following weekly milestones:
+
+| Week | Focus Area                            | Key Activities |
+|------|---------------------------------------|----------------|
+| 1    | Requirements & Design                 | Gather requirements, define intents/DB, create wireframes |
+| 2    | Environment Setup & Core Backend      | Configure XAMPP/DB, build OOP PHP classes, CRUD operations |
+| 3    | Frontend & Chatbot Integration        | Develop UI, integrate OpenAI API, test dialog flows |
+| 4    | Features & Security                   | Add doctor logic, manage appointments, secure inputs |
+| 5    | Testing & Deployment                  | Perform E2E testing, bug fixes, deploy on XAMPP |
+
+
 ________________________________________
 7. ## Expected Outcome:
 

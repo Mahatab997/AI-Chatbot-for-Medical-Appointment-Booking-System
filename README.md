@@ -55,14 +55,12 @@ ________________________________________
 ## 📅 5‑Week Project Timeline
 The work is broken down into the following weekly milestones:
 
-| Week | Focus Area                            | Key Activities |
-|------|---------------------------------------|----------------|
-| 1    | Requirements & Design                 | Gather requirements, define intents/DB, create wireframes |
-| 2    | Environment Setup & Core Backend      | Configure XAMPP/DB, build OOP PHP classes, CRUD operations |
-| 3    | Frontend & Chatbot Integration        | Develop UI, integrate OpenAI API, test dialog flows |
-| 4    | Features & Security                   | Add doctor logic, manage appointments, secure inputs |
-| 5    | Testing & Deployment                  | Perform E2E testing, bug fixes, deploy on XAMPP |
-
+Phase	Milestone	Key Deliverables	Status
+W1	🏗 System Design	Architecture Diagram, Use Case Diagram, ER Model, Database Tables	🟢 Complete
+W2	⚙ Backend Core	Authentication, Doctor Module, Department Module	🟢 Complete
+W3	📅 Appointment Module	Booking, Rescheduling, Cancellation, Admin Panel	⚪ In Progress
+W4	🤖 AI Chatbot	NLP Processing, Intent Mapping, Real-time API Response	⚪ Planned
+W5	🔐 Optimization	Security Hardening, Testing, UI Enhancement, Documentation	⚪ Planned
 
 ________________________________________
 7. ## Expected Outcome:

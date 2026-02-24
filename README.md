@@ -41,15 +41,11 @@ ________________________________________
 ________________________________________
 6. ## Technology Stack: 
 
-    •	Programming Language: Python
-
-    •	Framework: Flask
-
-    •	NLP Libraries: NLTK / spaCy
-
-    •	Machine Learning: Scikit-learn
-
-    •	Database: SQLite / MySQL
+    • Frontend: HTML, CSS, JavaScript
+    • Backend: PHP (OOP structure)
+    • Database: MySQL
+    • Server: XAMPP
+    • AI Chatbot: OpenAI API (real AI)
 
 ________________________________________
 7. ## Expected Outcome:

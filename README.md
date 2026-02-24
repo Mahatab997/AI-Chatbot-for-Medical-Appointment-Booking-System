@@ -60,8 +60,8 @@ The work is broken down into the following weekly milestones:
 | W1    | Requirements & Design | Requirements document, intent specs, database schema, wireframes | Complete   |
 | W2    | Backend Foundation    | XAMPP configuration, MySQL DB, PHP OOP classes, CRUD methods  | Complete   |
 | W3    | Frontend & AI         | UI pages, OpenAI chatbot integration, dialogue testing       | In Progress   |
-| W4    | Features & Security   | Doctor selection logic, appointment management, validation   | Planned   |
-| W5    | Testing & Launch      | End‑to‑end testing, bug fixes, deployment documentation      | Planned   |
+| W4    | Features & Security   | Doctor selection logic, appointment management, validation   |   Planned   |
+| W5    | Testing & Launch      | End‑to‑end testing, bug fixes, deployment documentation      |   Planned   |
 
 
 ________________________________________

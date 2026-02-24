@@ -42,9 +42,13 @@ ________________________________________
 6. ## Technology Stack: 
 
     • Frontend: HTML, CSS, JavaScript
+    
     • Backend: PHP (OOP structure)
+    
     • Database: MySQL
+   
     • Server: XAMPP
+   
     • AI Chatbot: OpenAI API (real AI)
 
 ________________________________________

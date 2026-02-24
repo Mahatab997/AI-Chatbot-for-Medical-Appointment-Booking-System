@@ -56,11 +56,11 @@ ________________________________________
 The work is broken down into the following weekly milestones:
 
 Phase	Milestone	Key Deliverables	Status
-W1	🏗 System Design	Architecture Diagram, Use Case Diagram, ER Model, Database Tables	🟢 Complete
-W2	⚙ Backend Core	Authentication, Doctor Module, Department Module	🟢 Complete
-W3	📅 Appointment Module	Booking, Rescheduling, Cancellation, Admin Panel	⚪ In Progress
-W4	🤖 AI Chatbot	NLP Processing, Intent Mapping, Real-time API Response	⚪ Planned
-W5	🔐 Optimization	Security Hardening, Testing, UI Enhancement, Documentation	⚪ Planned
+W1	System Design	Architecture Diagram, Use Case Diagram, ER Model, Database Schema	Complete
+W2	Backend Core	Authentication, Doctor & Department Modules	Complete
+W3	Appointment Module	Booking, Rescheduling, Cancellation, Admin Panel	In Progress
+W4	AI Chatbot Integration	NLP Intent Detection, API Integration	Planned
+W5	Security & Deployment	Validation, Security Hardening, Testing, Documentation	Planned
 
 ________________________________________
 7. ## Expected Outcome:

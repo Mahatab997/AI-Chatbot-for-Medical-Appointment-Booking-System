@@ -55,12 +55,14 @@ ________________________________________
 ## 📅 5‑Week Project Timeline
 The work is broken down into the following weekly milestones:
 
-Phase	Milestone	Key Deliverables	Status
-W1	System Design	Architecture Diagram, Use Case Diagram, ER Model, Database Schema	Complete
-W2	Backend Core	Authentication, Doctor & Department Modules	Complete
-W3	Appointment Module	Booking, Rescheduling, Cancellation, Admin Panel	In Progress
-W4	AI Chatbot Integration	NLP Intent Detection, API Integration	Planned
-W5	Security & Deployment	Validation, Security Hardening, Testing, Documentation	Planned
+ Phase | Milestone             | Primary Deliverables                                         | Status    |
+|-------|-----------------------|--------------------------------------------------------------|-----------|
+| W1    | Requirements & Design | Requirements document, intent specs, database schema, wireframes | Planned   |
+| W2    | Backend Foundation    | XAMPP configuration, MySQL DB, PHP OOP classes, CRUD methods  | Planned   |
+| W3    | Frontend & AI         | UI pages, OpenAI chatbot integration, dialogue testing       | Planned   |
+| W4    | Features & Security   | Doctor selection logic, appointment management, validation   | Planned   |
+| W5    | Testing & Launch      | End‑to‑end testing, bug fixes, deployment documentation      | Planned   |
+
 
 ________________________________________
 7. ## Expected Outcome:

@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MediClinic - Healthcare Analytics</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/dashboard.css">
+</head>
+<body class="dashboard">
+    <aside class="sidebar">
+        <div>
+            <div class="logo">MediClinic</div>
+            <nav>
+                <a href="#"><span>🏠</span> Dashboard</a>
+                <a href="#"><span>👥</span> Patients</a>
+                <a href="#"><span>📅</span> Appointments</a>
+                <a href="#"><span>📊</span> Reports</a>
+                <a href="#"><span>💊</span> Pharmacy</a>
+                <a href="#"><span>💰</span> Billing</a>
+                <a href="#"><span>⚙️</span> Settings</a>
+            </nav>
+        </div>
+        <div class="profile-card">
+            <img src="https://via.placeholder.com/40" class="avatar" alt="Dr. Rahman">
+            <div class="profile-info">
+                <div>Dr. Sumaiya Rahman</div>
+                <div style="font-size:12px;color:var(--text-soft);">Cardiologist</div>
+            </div>
+        </div>
+    </aside>
+
+    <header class="header">
+        <div class="search-bar">
+            <input type="text" placeholder="Search patients, appointments...">
+        </div>
+        <div class="icon-group">
+            <div class="badge"><span>🔔</span></div>
+            <img src="https://via.placeholder.com/32" class="avatar" alt="Profile">
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="welcome">Good Morning, Dr. Rahman! You have 8 appointments today.</div>
+        <div class="stats-cards">
+            <div class="card">
+                <div>Total Patients</div>
+                <div class="value">2,850</div>
+                <div class="change">+12%</div>
+            </div>
+            <div class="card">
+                <div>Today's Appointments</div>
+                <div class="value">08</div>
+                <div class="change" style="color:var(--text-soft);">(4 left)</div>
+            </div>
+            <div class="card">
+                <div>ICU/Emergency</div>
+                <div class="value">03</div>
+            </div>
+            <div class="card">
+                <div>Revenue</div>
+                <div class="value">$45k</div>
+                <div class="change" style="color:var(--text-soft);">(This month)</div>
+            </div>
+        </div>
+        <div class="charts">
+            <div class="chart">
+                <div class="title">Patient Inflow (Last 7 days)</div>
+                <div style="height:200px;background:#eee;border-radius:4px;"></div>
+            </div>
+            <div class="chart">
+                <div class="title">Patient Age Distribution</div>
+                <div style="height:200px;background:#eee;border-radius:4px;"></div>
+            </div>
+        </div>
+        <div class="tables-section">
+            <table>
+                <thead>
+                    <tr><th>Time</th><th>Patient</th><th>Reason</th><th>Doctor</th><th>Status</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>09:00</td><td>John Doe</td><td>Checkup</td><td>Rahman</td><td>Confirmed</td></tr>
+                    <tr><td>10:30</td><td>Jane Smith</td><td>COVID Test</td><td>Rahman</td><td>Pending</td></tr>
+                </tbody>
+            </table>
+            <div class="list">
+                <div class="item">Report #123 <a href="#" class="download">Download</a></div>
+                <div class="item">Report #124 <a href="#" class="download">Download</a></div>
+            </div>
+        </div>
+    </main>
+
+    <aside class="rightbar">
+        <div class="section">
+            <h4>Upcoming Reminders</h4>
+            <div class="item">10:00 AM - Meeting with interns</div>
+            <div class="item">01:30 PM - Surgery review</div>
+        </div>
+        <div class="section">
+            <h4>Pending Tasks</h4>
+            <div class="item">Review lab reports (5)</div>
+        </div>
+        <div class="section">
+            <h4>Recent Messages</h4>
+            <div class="item">John Doe: "Feeling better"</div>
+            <div class="item">Anna K.: "Need prescription"</div>
+        </div>
+    </aside>
+</body>
+</html>

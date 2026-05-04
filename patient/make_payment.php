@@ -1,5 +1,5 @@
 <?php 
-include "../config/database.php";
+include "../config/database.php"; /* updated payment*/
 
 if (session_status() === PHP_SESSION_NONE) {
     session_start();
